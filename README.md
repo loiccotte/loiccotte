@@ -20,13 +20,13 @@ après un **BUT Science des Données** (2023-2026) effectué en alternance au CC
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=py,r,java,django&perline=2" alt="Python, R, Java, Django" /><br><br>
+      <img src="https://skillicons.dev/icons?i=py,r,java&perline=3" alt="Python, R, Java" /><br><br>
       <img src="https://img.shields.io/badge/SQL-336791" alt="SQL" />
     </td>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=postgres,elasticsearch&perline=2" alt="PostgreSQL, Elasticsearch" /><br><br>
-      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" alt="Apache Spark" /><br>
-      <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black" alt="Apache Hadoop" /><br>
+      <img src="https://img.shields.io/badge/%C3%89cosyst%C3%A8me%20Hadoop-Spark%20%C2%B7%20Hive%20%C2%B7%20Sqoop-66CCFF?logo=apachehadoop&logoColor=black" alt="Écosystème Hadoop : Spark, Hive, Sqoop" /><br>
+      <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white" alt="Apache Kafka" /><br>
       <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black" alt="DuckDB" /><br>
       <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" alt="QGIS" /><br>
       <img src="https://img.shields.io/badge/R%20Shiny-1D6996" alt="R Shiny" />
