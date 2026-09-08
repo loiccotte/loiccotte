@@ -3,7 +3,7 @@
 # Loïc Cotte
 
 Étudiant en **Master 1 Informatique** à l'Université Lumière Lyon 2 (ICOM),<br>
-diplômé du **BUT Science des Données** effectué en alternance au CCAS de Saint-Priest.
+après un **BUT Science des Données** (2023-2026) effectué en alternance au CCAS de Saint-Priest.
 
 **🔎 Recherche un stage de Data Analyst : 2 à 5 mois, du 30 mars au 31 août 2027, à Lyon**
 
