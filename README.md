@@ -13,7 +13,7 @@ diplômé du **BUT Science des Données** effectué en alternance au CCAS de Sai
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=py,r,postgres,elasticsearch,docker,git,linux,latex,django,react,java,maven&perline=6)](https://github.com/loiccotte)
+[![Skills](https://skillicons.dev/icons?i=py,r,postgres,elasticsearch,docker,git,linux,latex,django,java&perline=5)](https://github.com/loiccotte)
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
