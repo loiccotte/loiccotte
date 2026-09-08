@@ -12,16 +12,31 @@ diplômé du **BUT Science des Données** effectué en alternance au CCAS de Sai
 ## Compétences
 
 <div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=py,r,postgres,elasticsearch,docker,git,linux,latex,django,java&perline=5)](https://github.com/loiccotte)
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
-![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
-![R Shiny](https://img.shields.io/badge/R%20Shiny-1D6996)
-![Power Query](https://img.shields.io/badge/Excel%20%2F%20Power%20Query-217346)
-
+<table>
+  <tr>
+    <th>Langages</th>
+    <th>Data</th>
+    <th>Outils &amp; DevOps</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=py,r,java,django&perline=2" alt="Python, R, Java, Django" /><br><br>
+      <img src="https://img.shields.io/badge/SQL-336791" alt="SQL" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=postgres,elasticsearch&perline=2" alt="PostgreSQL, Elasticsearch" /><br><br>
+      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" alt="Apache Spark" /><br>
+      <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black" alt="Apache Hadoop" /><br>
+      <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black" alt="DuckDB" /><br>
+      <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" alt="QGIS" /><br>
+      <img src="https://img.shields.io/badge/R%20Shiny-1D6996" alt="R Shiny" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,latex&perline=2" alt="Docker, Git, Linux, Bash, LaTeX" /><br><br>
+      <img src="https://img.shields.io/badge/Excel%20%2F%20Power%20Query-217346" alt="Excel / Power Query" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ## Ce que je fais
